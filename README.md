@@ -12,3 +12,10 @@ flask db upgrade
 # flask db downgrade
 flask db --help
 ```
+
+## Requirement
+
+### Mysql
+
+ - pip install pymysql
+ 
