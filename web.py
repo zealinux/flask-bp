@@ -2,7 +2,8 @@
 # -*- coding: utf-8 -*-
 
 from flask import Flask, jsonify
-from app import User, create_app
+from app import create_app
+from models import User
 
 app = create_app()
 
