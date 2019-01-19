@@ -30,6 +30,6 @@ flask db --help
  
  ## TODO
 
-  [x] flask web & flask migrate coexist
-  [ ] dotenv
-  [ ] BDD
+ - [x] flask web & flask migrate coexist
+ - [ ] dotenv
+ - [ ] BDD
